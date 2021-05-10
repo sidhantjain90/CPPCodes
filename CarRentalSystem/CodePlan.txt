@@ -1,0 +1,16 @@
+int main:
+
+|
+ -Welcome screen Class()
+ -Login Class()--------------------------
+	  |		           |
+	 Success		  Fail
+	  |		           |
+	   -Rent Class()	    -cout<<"Try Again"<<endl;
+	   	|
+	    	 -Select Model
+	         -Enter Customer details-------------------
+	         -Enter Renting details		           |
+						           |
+						    Customer Class()
+
